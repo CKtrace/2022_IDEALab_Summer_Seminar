@@ -17,7 +17,3 @@ for word, cnt in counter.most_common(num_words):
     sys.stdout.write("\t")
     sys.stdout.write(word)
     sys.stdout.write("\n")
-
-
-
-    
